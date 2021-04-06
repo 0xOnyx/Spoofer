@@ -5,6 +5,6 @@
   "spoofer":
   {
     "url": "https://www.google.com/",
-    "port": 9001
+    "port": 80
   }
 }

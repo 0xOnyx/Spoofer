@@ -1,7 +1,7 @@
 {
-  "user": "root",
-  "password": "root",
-  "host": "localhost",
-  "database": "Project",
+  "user": "testPerso",
+  "password": "123",
+  "host": "127.0.0.1",
+  "database": "spoofer",
   "port": 3306
 }
